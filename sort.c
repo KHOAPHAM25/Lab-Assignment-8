@@ -148,7 +148,7 @@ void printArray(int pData[], int dataSz)
   //print Data 
 	printf("\tData:\n\t");
   //i standards
-	for (i=0;i<100;++i)
+	for (i=0;i<10;++i)
 	{
     //print out the data
 		printf("%d ",pData[i]);
